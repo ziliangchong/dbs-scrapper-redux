@@ -1,9 +1,9 @@
 # dbs-scrapper-redux
 # Scrapes DBS press releases using selenium and requests
 
-DBS - a prominent Singapore bank - keeps a public online record of all its press releases, which can be easily accessed in `xml` format <a href='https://www.dbs.com/media/news-list.page'>here</a>.
+DBS - a prominent Singapore bank - keeps a public online record of all its press releases, which can be easily accessed <a href='https://www.dbs.com/media/news-list.page'>here</a>.
 
- This is a simple `jupyter notebook` that uses `BeautifulSoup` to extract the relevant information.
+ This is a simple `jupyter notebook` that uses `Selenium` and `Requests` to extract the relevant information.
 
  ## Output
 
